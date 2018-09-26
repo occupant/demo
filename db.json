@@ -1,12 +1,14 @@
-[
-  {
-    "id": 1,
-    "title": "Data Consumer",
-    "url": "https://ubc.ca",
-    "classification": "Internal",
-    "body": "An university unit or individual university community member who have been granted access to institutional data in order to perform assigned duties or in fulfillment of assigned roles or functions within the university; this access is granted solely for the conduct of university operations.",
-    "steward": "John Doe",
-    "community": "Data Governance",
-    "updated": "2018/01/31"
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
