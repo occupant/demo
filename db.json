@@ -1,4 +1,5 @@
-{
+[
+  {
     "id": 1,
     "title": "Data Consumer",
     "url": "https://ubc.ca",
@@ -128,3 +129,4 @@
     "community": "Data Governance",
     "updated": "2018/01/31"
   }
+]
