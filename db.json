@@ -4,49 +4,34 @@
     "title": "Data Consumer",
     "url": "https://ubc.ca",
     "classification": "Internal",
-    "body": "An university unit or individual university community member who have been granted access to institutional data in order to perform assigned duties or in fulfillment of assigned roles or functions within the university; this access is granted solely for the conduct of university operations.",
-    "steward": "John Doe",
-    "community": "Data Governance",
-    "updated": "2018/01/31"
+    "body": "An university unit or individual university community member who have been granted access to institutional data in order to perform assigned duties or in fulfillment of assigned roles or functions within the university; this access is granted solely for the conduct of university operations."
   },
   {
     "id": 2,
     "title": "Data Other",
     "url": "https://ubc.ca",
     "classification": "UBC Community",
-    "body": "An university unit or individual university community member who have been granted access to institutional data in order to perform assigned duties or in fulfillment of assigned roles or functions within the university; this access is granted solely for the conduct of university operations.",
-    "steward": "John Doe",
-    "community": "Data Governance",
-    "updated": "2018/01/31"
+    "body": "An university unit or individual university community member who have been granted access to institutional data in order to perform assigned duties or in fulfillment of assigned roles or functions within the university; this access is granted solely for the conduct of university operations."
   },
   {
     "id": 3,
     "title": "Foolish Consumer",
     "url": "https://ubc.ca",
     "classification": "Public",
-    "body": "An university unit or individual university community member who have been granted access to institutional data in order to perform assigned duties or in fulfillment of assigned roles or functions within the university; this access is granted solely for the conduct of university operations.",
-    "steward": "John Doe",
-    "community": "Data Governance",
-    "updated": "2018/01/31"
+    "body": "An university unit or individual university community member who have been granted access to institutional data in order to perform assigned duties or in fulfillment of assigned roles or functions within the university; this access is granted solely for the conduct of university operations."
   },
   {
     "id": 4,
     "title": "More Terms",
     "url": "https://ubc.ca",
     "classification": "Deprecated",
-    "body": "An university unit or individual university community member who have been granted access to institutional data in order to perform assigned duties or in fulfillment of assigned roles or functions within the university; this access is granted solely for the conduct of university operations.",
-    "steward": "John Doe",
-    "community": "Data Governance",
-    "updated": "2018/01/31"
+    "body": "An university unit or individual university community member who have been granted access to institutional data in order to perform assigned duties or in fulfillment of assigned roles or functions within the university; this access is granted solely for the conduct of university operations."
   },
   {
     "id": 5,
     "title": "Another Term",
     "url": "https://ubc.ca",
     "classification": "Unspecified",
-    "body": "An university unit or individual university community member who have been granted access to institutional data in order to perform assigned duties or in fulfillment of assigned roles or functions within the university; this access is granted solely for the conduct of university operations.",
-    "steward": "John Doe",
-    "community": "Data Governance",
-    "updated": "2018/01/31"
+    "body": "An university unit or individual university community member who have been granted access to institutional data in order to perform assigned duties or in fulfillment of assigned roles or functions within the university; this access is granted solely for the conduct of university operations."
   }
 ]
